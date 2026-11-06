@@ -1,168 +1,152 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080b16,50:35216a,100:111827&text=FIRAT%20TEKIN&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=ERTSoftware%20Co-Founder%20%7C%20Full-Stack%20%26%20AI%20Engineering&descAlignY=60&descSize=17&animation=fadeIn" />
+
+<a href="https://github.com/cheffreal"><img src="https://img.shields.io/badge/GitHub-cheffreal-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Co--Founder-ERTSoftware-7c3aed?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Based_in-Istanbul-0f172a?style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1300&color=A78BFA&center=true&vCenter=true&width=900&lines=Full-Stack+%26+Desktop+Software+Developer;AI+Engineering+%7C+Multi-Agent+Systems;Scalable+SaaS+%26+Business+Automation;Building+Software+for+Real-World+Businesses" alt="Animated introduction" />
+
+</div>
+
+## Who I Am
+
+**Fırat Tekin** — Co-Founder of **ERTSoftware**, software developer working across full-stack web applications, desktop software, business automation and AI-integrated development workflows.
+
+I design practical software products with a focus on **secure architecture, maintainability, performance and real business value**. My projects span multi-tenant SaaS platforms, commercial management systems, Discord infrastructure, automation tools and developer workflows.
+
+> **Build deliberately. Engineer securely. Ship reliably.**
+
+---
+
+## Areas of Expertise
+
+| Domain | What I Work On |
+|:--|:--|
+| **AI Engineering** | LLM integrations, AI-assisted development workflows, prompt and context engineering |
+| **Multi-Agent Systems** | Specialized coding agents, task orchestration, review and testing workflows |
+| **Full-Stack Development** | Web platforms, dashboards, APIs and authentication |
+| **Desktop Engineering** | Electron-based business software and native application development |
+| **Software Architecture** | Modular systems, multi-tenancy, licensing and access control |
+| **Automation & DevOps** | CI/CD, deployment, monitoring and workflow automation |
+| **Security Engineering** | Authorization, data isolation, auditability and defensive design |
+
+---
+
+## Languages, Frameworks & Tools
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090f,45:5124a6,100:09090f&text=FIRAT%20TEKIN&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Co-Founder%20%40%20ERTSoftware%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
+**Programming Languages**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+Modern+Software+Solutions;Full-Stack+Web+%26+Desktop+Development;Software+Architecture+%26+Automation;Turning+Ideas+Into+Real+Products" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,php,cpp,cs,html,css,kotlin,java&perline=10" alt="Programming languages" />
 
-<br/>
+**Web & Desktop**
 
-<a href="https://github.com/cheffreal">
-<img src="https://komarev.com/ghpvc/?username=cheffreal&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,electron,tailwind,bootstrap,vite&perline=7" alt="Web and desktop technologies" />
+
+**Data & Backend**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,prisma,express&perline=6" alt="Databases and backend" />
+
+**Infrastructure & Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,ubuntu,nginx,cloudflare,vscode,visualstudio,postman&perline=11" alt="Infrastructure and developer tools" />
+
+</div>
+
+---
+
+## AI & Agentic Development
+
+My AI-related work focuses on **using language models as part of structured software engineering systems**, rather than treating AI as a standalone code generator.
+
+- **LLM workflows:** AI-powered development assistance, context management and integration planning
+- **Agent orchestration:** Specialized agents for implementation, testing, review, security and documentation
+- **Human-controlled automation:** Permission-aware workflows, checkpoints and verifiable outputs
+- **Developer tooling:** Building workflows around coding assistants and modern engineering tools
+- **Quality first:** Automated validation, code review, maintainability and safe changes
+
+**Focus:** AI-assisted engineering · Agentic workflows · Developer productivity · Secure automation
+
+---
+
+## Building at ERTSoftware
+
+**ERTSoftware** focuses on software products for everyday business operations — from local-first desktop tools to centrally managed cloud platforms.
+
+| Product Area | Capabilities |
+|:--|:--|
+| **Restaurant & POS** | Orders, tables, kitchen operations, stock, courier workflows |
+| **Service Management** | Automotive, motorcycle and bicycle service operations |
+| **Hospitality** | Reservations, accommodation, staff permissions and reporting |
+| **Retail & Inventory** | Sales, suppliers, stock and financial workflows |
+| **Membership Systems** | Gym operations, classes, memberships and payments |
+| **Industry Software** | Rental, organization, flower shop and cleaning workflows |
+| **Cloud & Licensing** | Tenant isolation, modular features, license entitlements |
+
+*These are product and development areas; not every listed system is necessarily publicly released.*
+
+---
+
+## Selected Engineering Work
+
+- **Multi-module Discord infrastructure:** Security, moderation, backups, dashboards and operational services.
+- **Full-stack platforms:** Next.js / TypeScript applications with authentication, APIs and administrative interfaces.
+- **Commercial desktop systems:** Electron applications with modular settings, offline workflows and business reporting.
+- **Cloud deployment:** Linux / Windows servers, reverse proxies, process management and deployment pipelines.
+- **AI-driven developer workflows:** Agent-based planning, implementation, testing and review.
+
+---
+
+## GitHub Insights
+
+<div align="center">
+
+<a href="https://github.com/cheffreal?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My_Repositories-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
 </a>
-
-<img src="https://img.shields.io/badge/Co--Founder-ERTSoftware-7c3aed?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Location-Istanbul-18181b?style=for-the-badge"/>
-
-</div>
-
----
-
-## About Me
-
-```typescript
-const developer = {
-  name: "Fırat Tekin",
-  username: "cheffreal",
-  company: "ERTSoftware",
-  position: "Co-Founder",
-  location: "Istanbul, Türkiye",
-
-  expertise: [
-    "Full-Stack Web Development",
-    "Desktop Application Development",
-    "Backend Architecture",
-    "Business Software",
-    "Automation & Integrations",
-    "Cloud Infrastructure"
-  ],
-
-  philosophy: "Build secure, scalable and useful software."
-};
-```
-
-I am a software developer and Co-Founder of **ERTSoftware**, focused on designing and developing modern, secure, scalable and commercially viable software solutions.
-
-My work spans full-stack web platforms, cross-platform desktop applications, business management systems, backend infrastructure and intelligent automation.
-
----
-
-## Technology Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,php,html,css,cpp,cs,java,kotlin&perline=10"/>
-
-### Frontend & Desktop
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,electron,tailwind,bootstrap,vite&perline=6"/>
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,mysql,sqlite&perline=7"/>
-
-### Infrastructure & Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,ubuntu,nginx,cloudflare,vscode,visualstudio,postman&perline=11"/>
-
-</div>
-
----
-
-## What I Build
-
-| Area | Focus |
-|---|---|
-| Enterprise Software | Business management and operational systems |
-| Web Platforms | Full-stack applications and dashboards |
-| Desktop Applications | Electron and native software development |
-| Backend Engineering | APIs, authentication and data management |
-| Automation | Workflow automation and integrations |
-| Infrastructure | Deployment, hosting and security |
-| SaaS Architecture | Multi-tenant platforms and licensing |
-
----
-
-## ERTSoftware
-
-<div align="center">
-
-### Engineering Software for Real Businesses
-
-**ERTSoftware** develops professional software solutions for businesses across multiple industries.
-
-</div>
-
-Our development areas include:
-
-- Restaurant management and POS systems
-- Automotive and motorcycle service management
-- Hotel and accommodation management
-- Gym and membership management
-- Retail, inventory and sales systems
-- Courier and delivery operations
-- Booking, rental and service platforms
-- Cloud-based multi-tenant business applications
-
-Our engineering priorities:
-
-**Security • Reliability • Scalability • Performance • User Experience**
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=cheffreal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090f&title_color=a78bfa&icon_color=8b5cf6&text_color=e4e4e7"/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheffreal&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090f&title_color=a78bfa&text_color=e4e4e7&langs_count=8"/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=cheffreal&theme=tokyonight&hide_border=true&background=09090F&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cheffreal&bg_color=09090f&color=a78bfa&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## Engineering Principles
-
-```text
-01  Design with purpose
-02  Build with security in mind
-03  Keep architecture maintainable
-04  Optimize for performance
-05  Test before deployment
-06  Deliver real business value
-```
-
----
-
-<div align="center">
-
-### Connect With Me
-
-<a href="https://github.com/cheffreal">
-<img src="https://img.shields.io/badge/GitHub-cheffreal-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/cheffreal?tab=overview">
+<img src="https://img.shields.io/badge/View-GitHub_Contributions-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="View contributions" />
 </a>
 
 <br/><br/>
 
-**FIRAT TEKIN | ERTSoftware**
+<img src="https://github-readme-stats.vercel.app/api?username=cheffreal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheffreal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Most used public repository languages" />
 
-*Building software that powers real-world businesses.*
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:5124a6,100:09090f&height=110&section=footer" width="100%"/>
+> Contribution history is available directly on my [GitHub overview](https://github.com/cheffreal?tab=overview). Language charts reflect detectable public repository code, not every language I use.
+
+---
+
+## Engineering Values
+
+```text
+SECURITY       Design for least privilege and safe defaults
+ARCHITECTURE   Build modular, maintainable foundations
+QUALITY        Test, review and validate before release
+PERFORMANCE    Measure, optimize and scale responsibly
+AUTOMATION     Automate repetitive work, keep humans in control
+PRODUCT        Solve real problems with usable software
+```
+
+---
+
+<div align="center">
+
+### Let's Build Better Software
+
+**Fırat Tekin** · **ERTSoftware Co-Founder**
+
+Full-Stack Development · AI Engineering · Desktop Applications · Software Architecture
+
+<a href="https://github.com/cheffreal"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080b16,50:35216a,100:111827&height=110&section=footer" />
 
 </div>
