@@ -16,7 +16,7 @@
 
 **Fırat Tekin** — Co-Founder of **ERTSoftware**, software developer working across full-stack web applications, desktop software, business automation and AI-integrated development workflows.
 
-I design practical software products with a focus on **secure architecture, maintainability, performance and real business value**. My projects span multi-tenant SaaS platforms, commercial management systems, Discord infrastructure, automation tools and developer workflows.
+I design practical software products with a focus on **secure architecture, maintainability, performance and real business value**. My projects span multi-tenant SaaS platforms, commercial management systems, automation tools and developer workflows.
 
 > **Build deliberately. Engineer securely. Ship reliably.**
 
@@ -94,7 +94,6 @@ My AI-related work focuses on **using language models as part of structured soft
 
 ## Selected Engineering Work
 
-- **Multi-module Discord infrastructure:** Security, moderation, backups, dashboards and operational services.
 - **Full-stack platforms:** Next.js / TypeScript applications with authentication, APIs and administrative interfaces.
 - **Commercial desktop systems:** Electron applications with modular settings, offline workflows and business reporting.
 - **Cloud deployment:** Linux / Windows servers, reverse proxies, process management and deployment pipelines.
